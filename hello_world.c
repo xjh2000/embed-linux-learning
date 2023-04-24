@@ -6,5 +6,5 @@
 #include "hello_world.h"
 
 int main() {
-    printf("hello world");
+    printf("hello world\n");
 }

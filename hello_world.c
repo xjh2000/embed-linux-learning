@@ -6,5 +6,5 @@
 #include "hello_world.h"
 
 int main() {
-    printf("hello world\n");
+    printf("hello world, xjh !!!, this is a test\n");
 }

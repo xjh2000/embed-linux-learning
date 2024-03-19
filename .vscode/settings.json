@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "hello_world.h": "c",
+        "stdio.h": "c",
+        "wmi.h": "c",
+        "types.h": "c",
+        "ioctl.h": "c",
+        "kernel.h": "c"
+    }
+}

@@ -8,7 +8,6 @@
 #include <linux/kernel.h>
 
 int main() {
-    printf("hello world, xjh !!!, this is a test\n");
-    printk("hello world, xjh !!!, this is a test\n");
+    printf("hello world, xjh !!!\n");
     return 0;
 }

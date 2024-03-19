@@ -7,4 +7,6 @@ set(CMAKE_C_COMPILER "arm-linux-gnueabihf-gcc")
 
 set(CMAKE_C_STANDARD 11)
 
-add_executable(linux hello_world.c hello_world.h)
+file(GLOB SOURCES "src/*.c" "src/*.h")
+
+add_executable(linux ${SOURCES})
